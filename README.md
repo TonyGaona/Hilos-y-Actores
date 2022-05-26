@@ -15,7 +15,7 @@ En la siguiente lista estan las actividades desarrolladas:
 
 - **Multiplicacion de matrices "Concurrente"**: 
 - **Multiplicacion de matrices "Thread"**: 
-- **Multiplicacion de matrices "Actors": 
+- **Multiplicacion de matrices "Actors"**: 
 
 ## Programacion Concurrente  
 
