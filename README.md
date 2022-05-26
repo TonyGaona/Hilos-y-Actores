@@ -23,6 +23,6 @@ En la siguiente lista irán apareciendo las actividades desarrolladas:
 
 - - -
 
-**Autores**: Tony Gaona, Isacc Alvarez
+**Autores**: Tony Gaona, Isaac Alvarez
 
 **Periodo Académico**: Abril 2022 - Agosto 2022
