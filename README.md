@@ -2,6 +2,12 @@
 
 # Programacion Avanzada
 
+En las carpetas se encontrara los codigos de las actividades desarrolladas
+
+- Actors
+- Thread
+- concurrent
+
 ### Créditos
 
 - - -
